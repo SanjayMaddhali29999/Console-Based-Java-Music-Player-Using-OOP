@@ -244,3 +244,35 @@ Good Bye
 ✅ Conclusion
 
 This project demonstrates Java OOP concepts with practical use of Encapsulation, Abstraction, Inheritance, Polymorphism, and Collections.
+Technologies Used
+
+Java (Core Java, OOP concepts)
+
+Collections (ArrayList)
+
+Console-based input/output
+
+Project Highlights
+
+Fully object-oriented design
+
+Dynamic management of songs and playlists
+
+Implements play, pause, stop functionality for songs
+
+Menu-driven and user-friendly
+
+Usage
+
+Clone the repository:
+
+git clone https://github.com/SanjayMaddhali29999/console-based-java-music-player-oop.git
+
+Open the project in Eclipse or any Java IDE
+Run Main.java to start the application
+Follow the menu to manage songs and playlists
+
+Author
+Sanjay Maddhali
+
+GitHub: https://github.com/SanjayMaddhali29999
